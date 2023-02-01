@@ -3,4 +3,4 @@
 ![img1](https://github.com/exhuz3u/Cloud-Notes/blob/main/1675261120055.jpg)
 
 ### 使用
-![img1](https://github.com/exhuz3u/Cloud-Notes/blob/main/1675262453109.jpg)
+![img1](https://github.com/exhuz3u/Cloud-Notes/blob/main/1675262453109.png)
