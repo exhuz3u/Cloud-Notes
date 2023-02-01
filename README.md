@@ -13,5 +13,8 @@
 ### 将生成的 shekkAddressakey.txt 文件内的解密字符填入 loader.py 的相应位置
 ![img1](https://github.com/exhuz3u/Cloud-Notes/blob/main/1675261003554.jpg)
 
-### 测试上线
+### 运行loader.py测试上线
 ![img1](https://github.com/exhuz3u/Cloud-Notes/blob/main/1675261062892.jpg)
+
+## 打包exe命令
+Pyinstaller -F -w loader.py
