@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Cloud--Notes-1.0.0-Cloud--Notes)
 
-## Simple use process
+# Simple use process
 ### CS生成py马后只保留括号内的东西
 ![img1](https://github.com/exhuz3u/Cloud-Notes/blob/main/1675261120055.jpg)
 
@@ -16,7 +16,7 @@
 ### 运行loader.py测试上线
 ![img1](https://github.com/exhuz3u/Cloud-Notes/blob/main/1675261062892.jpg)
 
-## 打包exe命令
+### 打包exe命令
 Pyinstaller -F -w loader.py
 
-此项目仅用于提供思路，请勿做其它用途，造成任何后果，与本人无关。
+## 此项目仅用于提供思路，请勿做其它用途，造成任何后果，与本人无关。
